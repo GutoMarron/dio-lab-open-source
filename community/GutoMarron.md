@@ -13,7 +13,7 @@ Sou formado em **Licenciatura em História**, mas também sou um curioso apaixon
 Aprendo **programação por conta própria**, sempre buscando entender o que acontece por trás da “mágica” do código.  
 Acredito que o pensamento crítico da História e a lógica da Programação se complementam na busca por soluções criativas.
 
-🚀 Atualmente estudando: *[adicione aqui: ex. JavaScript, Git, React, etc.]*
+
 📚 Sempre explorando novas tecnologias e formas de aprender.
 
 
